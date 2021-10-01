@@ -21,21 +21,23 @@ domain: arti0090.github.io
 url: https://arti0090.github.io/blog
 BASE_PATH : http://arti0090.com/blog
 
-title: Your awesome title
-email: your-email@example.com
+title: arti0090 blog
+email: arti0090@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello, arti0090 here and welcome to my blog where I would like to share
+  with you some of my researches, projects and works. I will write not 
+  only topics related with my programming work but also my hobbies.
+  Hope that you will have fun reading it.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+youtube_username: arti0090
+github_username:  arti0090
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
